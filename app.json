@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/home.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.datpq.HomeReceipts"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5ea6c3cc-7b9b-4d0a-8295-cc7fe9fd125b"
+      }
     }
   }
 }
